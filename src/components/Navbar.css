@@ -1,0 +1,10 @@
+.yoyo{
+    animation-name: Yoyo ;
+    animation-duration: .8s;
+    animation-iteration-count: infinite;
+}
+@keyframes Yoyo {
+    50%{
+        top:-1rem;
+    }
+}
